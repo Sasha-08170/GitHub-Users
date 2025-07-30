@@ -39,7 +39,7 @@ src/
 
 ## 🧑‍💻 Автор
 
-Разработано [Olexandr Dolinskyi](https://github.com/OlexandrDolinskyi)
+Разработано [Aleksandr](https://github.com/OlexandrDolinskyi)
 
 ## 📜 Лицензия
 
